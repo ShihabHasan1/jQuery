@@ -1,0 +1,22 @@
+.level1{
+    width: 100px;
+    height: 100px;
+    background: red;
+    margin-top: 20px;
+    
+}
+
+.level2{
+    width: 100px;
+    height: 100px;
+    background: green;
+    margin-top: 20px;
+    
+}
+.level3{
+    width: 100px;
+    height: 100px;
+    background: yellow;
+    margin-top: 20px;
+    
+}
